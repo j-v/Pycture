@@ -1,0 +1,8 @@
+ColorZoner
+
+an infantile attempt at doing a cool image processing algorithm.
+
+requires:
+Python
+PIL - image processing library for python
+too much time on your hands
